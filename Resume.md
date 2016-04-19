@@ -1,12 +1,10 @@
-<center>
+<div align="center">
 <b>Alexander J. Hersh</b><BR>
 200 Hyde Park Ave. Apt. 3<BR>
 Jamaica Plain, MA 02118<BR>
 (936) 520-1104<BR>
 hersh.a@husky.neu.edu
-</center>
-
-
+</div>
 
 ## **Education**
 ***Northeastern University 2016***: BS in Computer Engineering and a Minor in Computer Science
@@ -21,15 +19,15 @@ hersh.a@husky.neu.edu
 
 ## Professional Experience
 #### Metaswitch: Software Engineer
-<div align="right"><I>July-Dec 2015</I></div>
+<div align="right">July-Dec 2015</div>
 Worked on an Open Source Project developing Containerized Infrastructure. Integrated Product with various application ecosystems and microservice architectures. Worked with the developer community on Github to fix issues and implement suggested features. Attended Trade conferences to evangelize product.
 
 #### AMD: Verification Engineer
-<div align="right"><I>July-Dec 2014</I></div>
+<div align="right">July-Dec 2014</div>
 Worked with a verification team to build tools to aid in the validation of a processor’s design. Ran simulations, managed regressions, and coordinated debugging efforts. Gained insight into the graphics pipeline from professionals and got familiar with the tools that implement it.
 
 #### Hasbro: Electronics Engineer
-<div align="right"><I>July-Dec 2013</I></div>
+<div align="right">July-Dec 2013</div>
 Built and coded prototypes of potential toys using 8-bit microprocessors. Used soldering and design skills to create mock ups for potential products. Revised existing products with new/localized code. Worked with marketing and design teams to refine concepts/products. Saw the entire product development cycle from start to end.
 
 ## Other Skills
