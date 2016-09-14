@@ -1,7 +1,5 @@
 <div align="center">
 <b>Alexander J. Hersh</b><BR>
-142 Cedar St.<BR>
-Boston, MA 02119<BR>
 (936) 520-1104<BR>
 alex@hersh.computer
 </div>
